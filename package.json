@@ -48,7 +48,6 @@
     "node-fetch": "^2.6.1",
     "path": "^0.12.7",
     "pino": "^7.0.5",
-    "pixaldrain-sinhalasub": "git+https://github.com/DarkMakerofc/pixaldrain-sinhalasub.git",
     "pm2": "^5.2.0",
     "postgres_dbm": "^1.1.0",
     "qrcode-terminal": "^0.12.0",
